@@ -3,7 +3,7 @@ Being the Gencys_2025 CTF Finalist by UST Global Company, I and my team secured 
 This Repo Holds the CTF WriteUp
 # 🏴‍☠️ CTF Writeup
 
-Welcome to my **Capture the Flag (CTF) Writeups** repository!  
+Welcome to my **Capture the Flag (CTF) Writeup** repository!  
 Here, I document my journey, solutions, and learnings from different CTF competitions I participate in.  
 
 ---
